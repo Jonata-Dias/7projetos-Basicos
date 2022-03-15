@@ -1,4 +1,36 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 let digitalElement = document.querySelector('.digital');
 let sElement = document.querySelector('.p_s'); //ponteiro de segundos
 let mElement = document.querySelector('.p_m');//ponteiro de minutos
@@ -31,3 +63,4 @@ function fixZero(time){ // forma resumida: da funçao fixzero
 
 setInterval(updateClock, 1000);
 updateClock(); // para não ter delay de 1 segundo  no relogio quando abrir o site
+ */
